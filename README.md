@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Zoo Zoo Zoo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+a site listing random zoo animals (and their facts) along with the option to save animals to a personal collection.
 
 ## Available Scripts
 
